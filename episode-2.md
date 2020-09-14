@@ -11,10 +11,9 @@
     - Every company operates differently, and there are a multitude of different tools for project management, testing, deployment and version control. [Agile](https://www.agilealliance.org/agile101/) methodology seems to be the industry-preferred management style at the moment.
     - Tools such as [Jira](https://www.atlassian.com/software/jira) allow project managers to easily assign features/bugfixes and other tasks to developers
     - The lifecycle of a new feature roughly goes through the following process:
-        - Develop
-            - Branch off the current development branch and start editting the source code.
-            - Commit finished code as well as any unit/e2e tests. Merge 
-            - Push feature branch and create pull request.
-            - Merge feature branch into development branch and deploy it to test environments. This usually involves running tests/linters to ensure old features aren't broken by new changes.
-            - Create `release/x.x.x` branch from development branch and deploy to production environments.
-            - Rinse and repeat.
+        - Branch off the current development branch and start editting the source code.
+        - Commit finished code as wellas any unit/e2e tests. Merge 
+        - Push feature branch and createpull request.
+        - Merge feature branch intodevelopment branch and deploy itto test environments. Thisusually involves running testslinters to ensure old featuresaren't broken by new changes.
+        - Create `release/x.x.x` branchfrom development branch anddeploy to productionenvironments.
+        - Rinse and repeat.

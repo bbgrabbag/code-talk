@@ -3,6 +3,8 @@ Welcome! This online webinar series is geared toward new developers who are eith
 
 **Sponsored by [V School](https://vschool.io/)**
 
+Take the [Free Bootcamp Primer Course](https://scrimba.com/learn/bootcampprimer) to see if web development is the career for you!
+
 ### Table of Contents
 
 - (9/7 Ep. 1) [What I wish I knew prior to attending a bootcamp](./episode-1.md)

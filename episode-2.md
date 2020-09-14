@@ -1,4 +1,5 @@
 # Intro to web development (Episode 2)
+[Register Here](https://us02web.zoom.us/meeting/register/tZ0kduurpzoqH9ONpGazYfru3DxT5U4m0syE)
 
 ### Overview
 - Browsers
